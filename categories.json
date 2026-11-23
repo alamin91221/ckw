@@ -7,5 +7,14 @@
     "order": 1,
     "visible": true,
     "wallpapersCount": 72
+  },
+  {
+    "id": "halloween-kitty",
+    "name": "Halloween Kitty",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ckw/main/images/categories/halloween-kitty.jpg",
+    "order": 2,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
