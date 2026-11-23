@@ -43,5 +43,14 @@
     "order": 6,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "love-kitty",
+    "name": "Love Kitty",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ckw/main/images/categories/love-kitty.jpg",
+    "order": 1,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
