@@ -1,14 +1,5 @@
 [
   {
-    "id": "dreamy girl",
-    "name": "dreamy girl",
-    "icon": "👩",
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
-    "order": 1,
-    "visible": true,
-    "wallpapersCount": 72
-  },
-  {
     "id": "halloween-kitty",
     "name": "Halloween Kitty",
     "icon": "📁",
