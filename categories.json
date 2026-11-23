@@ -25,5 +25,14 @@
     "order": 4,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "cute-kitty01",
+    "name": "Cute Kitty01",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ckw/main/images/categories/cute-kitty01.jpg",
+    "order": 5,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
