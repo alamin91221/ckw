@@ -16,5 +16,14 @@
     "order": 3,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "easter-kitty",
+    "name": "Easter  Kitty",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ckw/main/images/categories/easter-kitty.jpg",
+    "order": 4,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
