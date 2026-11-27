@@ -1,12 +1,12 @@
 {
-  "version": 2,
+  "version": 21,
   "app": {
     "appName": "Cute Kitty",
     "maintenance": false,
     "forceUpdate": false,
     "minVersionCode": 1,
-    "updateUrl": "https://play.google.com/store/apps/details?id=com.pixelblues.animebeautywallpapers",
-    "privacyPolicyUrl": "https://raw.githubusercontent.com/alamin91221/ABW/main/privacy-policy.html",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.girlywallpaper",
+    "privacyPolicyUrl": "https://github.com/privacy",
     "message": ""
   },
   "ads": {
@@ -21,7 +21,7 @@
       "enabled": true,
       "unitId": "ca-app-pub-3940256099942544/1033173712",
       "showEveryNActions": 3,
-      "minSecondsBetween": 60
+      "minSecondsBetween": 10
     },
     "rewarded": {
       "enabled": true,
@@ -46,5 +46,176 @@
   "themes": {
     "default": "lavender",
     "allowUserSwitch": true
+  },
+  "moreApps": {
+    "enabled": true,
+    "title": "More Apps",
+    "apps": [
+      {
+        "id": "app_1795710295867",
+        "name": "Muziko: Stream & Play Music",
+        "description": "Discover a World of Unique Sounds with Muziko",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710295867_1795710295883.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.muziko.rafinilasha&hl=en",
+        "badge": "HOT",
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710382238",
+        "name": "Sad Anime Wallpaper 4K HD",
+        "description": "Express your feelings with the most emotional collection of high-quality sad anime wallpapers.",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710382238_1795710382250.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashasadanime&hl=en",
+        "badge": "",
+        "order": 2,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710421251",
+        "name": "8D Video Player – Media Player",
+        "description": "8D Video Player – Enjoy Videos with an Immersive Audio Experience",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710421251_1795710421270.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdvideoplayer&hl=en",
+        "badge": "HOT",
+        "order": 3,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710460200",
+        "name": "Anime Girl Wallpapers 4K HD",
+        "description": "Transform your phone with the ultimate collection of high-quality anime girl wallpapers!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710460200_1795710460221.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animegirl&hl=en",
+        "badge": "",
+        "order": 4,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710656778",
+        "name": "8D Audio Maker - 8D Converter",
+        "description": "8D Audio Maker – Transform Your Music Experience",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710656778_1795710656805.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.spatialaudio&hl=en",
+        "badge": "",
+        "order": 5,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710817431",
+        "name": "Anime Wallpapers 4K: Aesthetic",
+        "description": "Elevate your screen with the ultimate collection of 4K Anime Wallpapers!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710817431_1795710817451.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.japannilashawallpaperapp&hl=en",
+        "badge": "",
+        "order": 6,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710853379",
+        "name": "PicPrompt Hub: Image Prompts",
+        "description": "PicPrompt Hub: Image Prompts - Every Image Comes With Its Prompt",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710853379_1795710853402.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.promptvault&hl=en",
+        "badge": "",
+        "order": 7,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710903978",
+        "name": "4K Donghua Anime Wallpapers",
+        "description": "Donghua Wallpapers: The Ultimate Collection for Cultivation Fans!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710903978_1795710904005.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp&hl=en",
+        "badge": "NEW",
+        "order": 8,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710942855",
+        "name": "Anime Couple Wallpaper HD",
+        "description": "Bring beautiful anime romance to your phone with Anime Couple Wallpaper!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710942855_1795710942884.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashaanimecouple&hl=en",
+        "badge": "",
+        "order": 9,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710995446",
+        "name": "MehndiVerse - Henna Design Hub",
+        "description": "MehndiVerse - Your Ultimate Henna Design Destination!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710995446_1795710995462.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.mehendidesign2026&hl=en",
+        "badge": "",
+        "order": 10,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711023929",
+        "name": "AnimeVibe AMOLED Wallpapers",
+        "description": "AnimeVibe Wallpaper – HD, 4K & AMOLED Anime Wallpapers",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711023929_1795711023943.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe&hl=en",
+        "badge": "",
+        "order": 11,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711055037",
+        "name": "8D Music Player Pro",
+        "description": "8D Music Player Pro – Music with Immersive Audio Effects",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711055037_1795711055058.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdmusicplayerpro&hl=en",
+        "badge": "",
+        "order": 12,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711092306",
+        "name": "VidReduce: Video Converter",
+        "description": "VidReduce – All-in-One Audio & Video Studio",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711092306_1795711092331.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.mediaforge&hl=en",
+        "badge": "",
+        "order": 13,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711136560",
+        "name": "BgCut AI: Erase BG & Upscale",
+        "description": "BgCut AI is an all-in-one AI photo editing utility designed to remove backgrounds",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711136560_1795711136581.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.bgcutai&hl=en",
+        "badge": "",
+        "order": 14,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711183214",
+        "name": "Tonevia: Video Color Grading",
+        "description": "Give your videos a cinematic look with Tonevia: Video Color Grading",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711183214_1795711183229.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.videocolorgrading&hl=en",
+        "badge": "",
+        "order": 15,
+        "enabled": true
+      }
+    ]
   }
 }
